@@ -1,53 +1,103 @@
 # 09011182328007_TugasPratikum_SO
 berikut langkah-langkah nya
+
 Langkah 1 (Situs tempat men-download file)
+![1](https://github.com/user-attachments/assets/47026a75-bfc5-4131-90c2-1d368b0ec7ea)
+
+
 Langkah 2 (Tampilan dalam situs. Terdapat 2 standar, yaitu LTS dan Interim. Sedangkan LTS terdapat 3 versi, yaitu Noble Numbat, Jammy Jellyfish, dan Focal Fossa)
+![2](https://github.com/user-attachments/assets/404bd0e1-533e-4664-b867-f4e977a14590)
+
+
 Langkah 3 (Setelah memasuki link, tertera opsi "image", di antaranya Desktop, Server, dan Netboot Tarball)
+![3](https://github.com/user-attachments/assets/287cc2a1-427f-43be-a8e9-2d9843df0374)
+
+
 Langkah 4 (Setelah meng-klik link, file langsung ter-download tanpa melalui torrent)
+![4](https://github.com/user-attachments/assets/b0a8847a-f8a6-445b-9488-2868aabc2643)
+
+
 Langkah 5 (Buka Virtual Box, dan klik ikon "new")
+![5](https://github.com/user-attachments/assets/f61ec689-188f-41c2-b630-613e0ad26dfb)
+
+
 Langkah 6 (Atur nama file, penempatan file, hingga lokasi file .iso-nya yang ingin dipasang)
+![6](https://github.com/user-attachments/assets/6a872ec5-b52f-41cc-a6bc-a00adb2ca9d4)
+
+
 Langkah 7 (Atur Base Memory, Processors, dan Disk Size-nya)
+![7](https://github.com/user-attachments/assets/12d44eac-608b-462e-8e87-c5473ef9e87f)
+
+
 Langkah 8 (Berikut deskripsi dari pengaturan sebelumnya)
+![8](https://github.com/user-attachments/assets/9d04aa3e-8b58-4ec6-8987-0c4d3015cd19)
+
+
 Langkah 9 (Pada halaman depan, pilih "Network" untuk mengatur adapter)
+![9](https://github.com/user-attachments/assets/722bba12-2c90-4928-b616-893ae41da04c)
+
+
 Langkah 10 (Ubah pada "Attached to", yang tadinya "NAT" menjadi "Bridged Adapter")
+![10](https://github.com/user-attachments/assets/677e2865-9e19-4b76-9602-633cc712265a)
+
+
 Langkah 11 (Setelahnya klik ikon "Start" untuk menjalankan instalasi)
+![11](https://github.com/user-attachments/assets/4151f380-bc4b-4696-b583-41c6a3e90955)
+
+
 Langkah 12 (Tampilan pertama memasuki Ubuntu Server)
+![12](https://github.com/user-attachments/assets/4b5cffa6-b89f-4c92-90a9-cc3542601710)
+
+
 Langkah 13 (Opsi pilihan bahasa)
+![13](https://github.com/user-attachments/assets/04f4c916-7063-4b42-b989-1607103c18b1)
+
+
 Langkah 14 (Halaman updater. Terdapat pilihan antara update atau continue)
+![14](https://github.com/user-attachments/assets/bfbda145-6d23-4bda-b012-58f864961905)
+
+
 Langkah 15 (Tampilan bar installer)
+![15](https://github.com/user-attachments/assets/a4eee6c7-3c74-4496-85d0-ca5ae76b6626)
+
+
 Langkah 16 (Keyboard dapat di-custom dengan pilihan berbagai mode)
+![16](https://github.com/user-attachments/assets/46017e92-9bf9-4a8e-a79e-8edc8008ad88)
+
+
 Langkah 17 (Penyecekan kernel Mirror)
+![17](https://github.com/user-attachments/assets/47f163f9-8739-473b-8127-f858d7a05118)
+
+
 Langkah 18 (Penempatan lokasi penyimpanan)
+![18](https://github.com/user-attachments/assets/35275e31-88c9-4bf0-b3dd-c1288dfe2f3c)
+
+
 Langkah 19 (Tampilan pengaturan yang sebelumnya diatur untuk Virtual Machine ini)
+![19](https://github.com/user-attachments/assets/097d7a98-79c8-447a-827a-4cbea6138792)
+
+
 Langkah 20 (Mengisi nama, nama server, nama pengguna, dan password)
+![20](https://github.com/user-attachments/assets/9551ad0e-628a-47f6-80f0-3be214dc0cd4)
+
+
 Langkah 21 (Tampilan Syntax yang sedang memproses ke hardware. Setelah selesai, pilih "Reboot")
+![21](https://github.com/user-attachments/assets/3ce53c4a-4877-4c33-9ab4-ce282af9534b)
+
+
 Langkah 22 (Login, ketik password user-mu, dan kernel siap dipakai)
+![22](https://github.com/user-attachments/assets/3b68fcab-06f6-486e-aa01-783ec1ca2975)
+
+
+
 Langkah 23 ('cloud-init', kita harus menonaktifkannya. Berikut deskripsi command tersebut)
+![23](https://github.com/user-attachments/assets/d7a87316-fbbd-4d45-9ad2-6dcb411cec55)
+
+
 Langkah 24 (Update dan Upgrade kernelnya. Syntax akan kembali memproses)
+![WhatsApp Image 2024-10-30 at 21 30 57 (1)](https://github.com/user-attachments/assets/bedeb8e7-f134-4193-a17e-6538db37013b)
+
+
 Langkah 25 (Setelah selesai, reboot untuk me-refresh kernel 'init 6')
-![23](https://github.com/user-attachments/assets/5deb8dbb-9af4-40a8-94c7-9d1565064dcb)
-![22](https://github.com/user-attachments/assets/d56c77c4-fff4-499b-8066-c0c41c14eb99)
-![21](https://github.com/user-attachments/assets/720b535c-c8e2-4b0e-94c3-e15fbc5406a4)
-![20](https://github.com/user-attachments/assets/2e2484fa-ede5-452c-b95b-985ffe863f15)
-![19](https://github.com/user-attachments/assets/06f1c440-4d42-408f-bc63-d0b9d09317d0)
-![18](https://github.com/user-attachments/assets/dff21652-2887-4075-93e7-ea475be94a4e)
-![17](https://github.com/user-attachments/assets/9c9d4345-d6de-4593-a2f6-625d8e776a2c)
-![16](https://github.com/user-attachments/assets/a5c84355-64aa-468e-b7d0-420a156dfe16)
-![15](https://github.com/user-attachments/assets/ef180284-3084-4471-b1da-72525888576d)
-![14](https://github.com/user-attachments/assets/a9bde19a-b95e-4f20-84b3-164776cf9d54)
-![13](https://github.com/user-attachments/assets/52a4d922-4f4c-4525-813b-a0b99f1de7fb)
-![12](https://github.com/user-attachments/assets/35d6e630-64f8-4d9c-b6ff-bf34a6b74e9d)
-![11](https://github.com/user-attachments/assets/edf199ea-5131-4401-817e-ee1af600de87)
-![10](https://github.com/user-attachments/assets/bae8ea4d-240a-472a-a2d4-f31ff92d04f6)
-![9](https://github.com/user-attachments/assets/9f6cb8ae-e014-4ad6-86e2-401a38d91ee5)
-![8](https://github.com/user-attachments/assets/279e9572-5b81-48dc-b288-174ce604abed)
-![7](https://github.com/user-attachments/assets/f63ca943-c1ee-4320-a225-c2e9746f47a6)
-![6](https://github.com/user-attachments/assets/740cec00-5087-4a88-a650-e04388730178)
-![5](https://github.com/user-attachments/assets/3212b4e5-98fd-4016-96ed-338d6dc5526a)
-![4](https://github.com/user-attachments/assets/7ad7b7c4-81cc-4dc3-ae83-29789a14be68)
-![3](https://github.com/user-attachments/assets/aee52678-ded5-4f1a-8b80-692b00cf9dfe)
-![2](https://github.com/user-attachments/assets/04a1433c-4542-4bdc-a611-99b3aab257da)
-![1](https://github.com/user-attachments/assets/f9b3f7ea-6859-4d96-81e3-aff6f4a4b613)
-![WhatsApp Image 2024-10-30 at 21 30 57](https://github.com/user-attachments/assets/2ac43bd2-abe5-4e37-8b18-71c41ad0dc46)
-![WhatsApp Image 2024-10-30 at 21 30 57 (1)](https://github.com/user-attachments/assets/72a05a50-fdb8-4c8c-b4c6-2946f3f2f89e)
+![WhatsApp Image 2024-10-30 at 21 30 57](https://github.com/user-attachments/assets/ba0f52aa-e6bc-4066-946a-f7b64e488c78)
 
