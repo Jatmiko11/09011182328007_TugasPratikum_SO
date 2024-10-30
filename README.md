@@ -168,3 +168,16 @@ Langkah 28 (Cek IP Address kernel ini, ambil IP-nya pada inet dari link/ether)
 
 
 ![WhatsApp Image 2024-10-30 at 22 01 22](https://github.com/user-attachments/assets/f0164639-8b3a-4d0d-ab01-e5d90e15b092)
+
+
+Langkah 31 (Sambungkan IP Address tersebut ke Desktop lain seperti Ubuntu atau Windows. Maka, kamu dapat menjalankan command melalui server kernel itu)
+
+
+![WhatsApp Image 2024-10-30 at 22 09 32](https://github.com/user-attachments/assets/f5eaa716-6917-4414-8177-206c77d9affb)
+
+
+Langkah 33 (Selesai, saya dapat memproses command-command melalui mirror kernel Server itu. Ketika selesai ketik logout)
+
+
+![WhatsApp Image 2024-10-30 at 22 09 32 (1)](https://github.com/user-attachments/assets/3dd146a6-78db-4aa7-97a8-49d5c182e7d6)
+
