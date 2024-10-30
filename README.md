@@ -94,11 +94,13 @@ Langkah 16 (Keyboard dapat di-custom dengan pilihan berbagai mode)
 
 Langkah 17 (Penyecekan kernel Mirror)
 
+
 ![17](https://github.com/user-attachments/assets/47f163f9-8739-473b-8127-f858d7a05118)
 
 
 
 Langkah 18 (Penempatan lokasi penyimpanan)
+
 
 ![18](https://github.com/user-attachments/assets/35275e31-88c9-4bf0-b3dd-c1288dfe2f3c)
 
@@ -106,10 +108,12 @@ Langkah 18 (Penempatan lokasi penyimpanan)
 
 Langkah 19 (Tampilan pengaturan yang sebelumnya diatur untuk Virtual Machine ini)
 
+
 ![19](https://github.com/user-attachments/assets/097d7a98-79c8-447a-827a-4cbea6138792)
 
 
 Langkah 20 (Mengisi nama, nama server, nama pengguna, dan password)
+
 
 ![20](https://github.com/user-attachments/assets/9551ad0e-628a-47f6-80f0-3be214dc0cd4)
 
@@ -117,11 +121,13 @@ Langkah 20 (Mengisi nama, nama server, nama pengguna, dan password)
 
 Langkah 21 (Tampilan Syntax yang sedang memproses ke hardware. Setelah selesai, pilih "Reboot")
 
+
 ![21](https://github.com/user-attachments/assets/3ce53c4a-4877-4c33-9ab4-ce282af9534b)
 
 
 
 Langkah 22 (Login, ketik password user-mu, dan kernel siap dipakai)
+
 
 ![22](https://github.com/user-attachments/assets/3b68fcab-06f6-486e-aa01-783ec1ca2975)
 
@@ -129,15 +135,18 @@ Langkah 22 (Login, ketik password user-mu, dan kernel siap dipakai)
 
 Langkah 23 ('cloud-init', kita harus menonaktifkannya. Berikut deskripsi command tersebut)
 
+
 ![23](https://github.com/user-attachments/assets/d7a87316-fbbd-4d45-9ad2-6dcb411cec55)
 
 
 Langkah 24 (Update dan Upgrade kernelnya. Syntax akan kembali memproses)
 
+
 ![WhatsApp Image 2024-10-30 at 21 30 57 (1)](https://github.com/user-attachments/assets/bedeb8e7-f134-4193-a17e-6538db37013b)
 
 
 Langkah 25 (Setelah selesai, reboot untuk me-refresh kernel 'init 6')
+
 
 ![WhatsApp Image 2024-10-30 at 21 30 57](https://github.com/user-attachments/assets/ba0f52aa-e6bc-4066-946a-f7b64e488c78)
 
@@ -155,3 +164,7 @@ Langkah 27 (Setelah meng-command yang lalu, command VBoxLinuxAdiitions-nya agar 
 ![27](https://github.com/user-attachments/assets/8c5ae9c0-ebc6-4e1a-a18e-2fb36110c56b)
 
 
+Langkah 28 (Cek IP Address kernel ini, ambil IP-nya pada inet dari link/ether)
+
+
+![WhatsApp Image 2024-10-30 at 22 01 22](https://github.com/user-attachments/assets/f0164639-8b3a-4d0d-ab01-e5d90e15b092)
