@@ -101,3 +101,9 @@ Langkah 24 (Update dan Upgrade kernelnya. Syntax akan kembali memproses)
 Langkah 25 (Setelah selesai, reboot untuk me-refresh kernel 'init 6')
 ![WhatsApp Image 2024-10-30 at 21 30 57](https://github.com/user-attachments/assets/ba0f52aa-e6bc-4066-946a-f7b64e488c78)
 
+Langkah 26 (Konfigurasi compiler. Pertama, pada bar di atas, klik "devices", lalu pilih "Insert guest additions CD image". Setelahnya, ikuti command-command di atas)
+![26](https://github.com/user-attachments/assets/bd802506-a6e3-4596-b2ad-1b4ce9f00813)
+
+Langkah 28 (Setelah meng-command yang lalu, command VBoxLinuxAdiitions-nya agar berjalan di system. Setelah proses syntax selesai, reboot 'init 6')
+![Uploading 27.jpeg…]()
+
